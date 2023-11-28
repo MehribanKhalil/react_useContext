@@ -1,0 +1,52 @@
+{
+  "popularFilms": [
+    {
+      "id": 1,
+      "movieImg": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/product-9.jpg",
+      "movieTitle": "Countrey",
+      "moviePrice": 21,
+      "category": "Romance",
+      "status": null
+    },
+    {
+      "id": 2,
+      "movieImg": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/product-8.jpg",
+      "movieTitle": "Perfect Edition",
+      "moviePrice": 51,
+      "category": "Romance",
+      "status": null
+    },
+    {
+      "id": 3,
+      "movieImg": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/product-7.jpg",
+      "movieTitle": "Gone",
+      "moviePrice": 34,
+      "category": "Comedy",
+      "status": null
+    },
+    {
+      "id": 4,
+      "movieImg": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/product-6.jpg",
+      "movieTitle": "balungan kere",
+      "moviePrice": 37,
+      "category": "Documentary",
+      "status": null
+    },
+    {
+      "id": 5,
+      "movieImg": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/product-5.jpg",
+      "movieTitle": "Home",
+      "moviePrice": 36,
+      "category": "Sci-Fi",
+      "status": "sale"
+    },
+    {
+      "id": 6,
+      "movieImg": "https://coppola.qodeinteractive.com/wp-content/uploads/2021/11/product-4.jpg",
+      "movieTitle": "dobule life",
+      "moviePrice": 23,
+      "category": "Fantasy",
+      "status": "new"
+    }
+  ]
+}

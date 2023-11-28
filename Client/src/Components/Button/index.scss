@@ -1,0 +1,32 @@
+// @import '../../assets/scss/utils/variables';
+
+.hero_btn {
+    background: none;
+    outline: none;
+    padding: 11px 20px;
+    text-transform: capitalize;
+    font-weight: 500;
+  
+  
+  }
+  
+  .white_btn {
+    color: #fff;
+    border: 2px solid #fff;
+    &:hover {
+      background-color: #fff;
+      color: #000;
+      transition: all 0.5s ease;
+    }
+  }
+  
+  .black_btn{
+    color: #000;
+    border: 2px solid #000;
+    &:hover {
+      background-color: #000;
+      color: #fff;
+      transition: all 0.5s ease;
+    }
+  }
+  
